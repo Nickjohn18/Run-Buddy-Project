@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 header {
     /* Padding can be applied all together */
@@ -9,13 +10,6 @@ header {
     padding-bottom: 20px;
     padding-left: 25px;
     background-color: #39a6b2;
-}
-
-header h1 {
-    font-weight: bold;
-    font-size: 36px;
-    color: #fce138;
-    margin: 0;
 }
 
 header a {
@@ -46,4 +40,23 @@ header h1 {
     color: #fce138;
     margin: 0;
     display: inline;
+}
+footer {
+    background:#fce138;
+    width: 100%;
+    padding: 40px 35px;
+}
+footer h2 {
+    display: inline;
+    color: #024e76;
+    font-size: 30px;
+    margin: 0;
+}
+footer div {
+    float: right;
+    line-height: 1.5;
+    text-align: right;
+}
+footer a {
+    color: #024e76
 }
