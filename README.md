@@ -1,4 +1,4 @@
-# Run-Buddy
+# Run Buddy inc.
 
 ## Purpose
 
@@ -15,4 +15,4 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 
-Maded with ❤️ by Nick John
+Made with ❤️ by [NickJohn]
