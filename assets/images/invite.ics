@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20210425T223000Z
+DTEND:20210425T232000Z
+DTSTAMP:20210424T024828Z
+ORGANIZER;CN=j.campos4g@gmail.com:mailto:j.campos4g@gmail.com
+UID:8ji3uknrr42vsg9tkh2utgm2co@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=j.campos4g@gmail.com;X-NUM-GUESTS=0:mailto:j.campos4g@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=nickjohndeluna21@gmail.com;X-NUM-GUESTS=0:mailto:nickjohndeluna21@gmail
+ .com
+X-MICROSOFT-CDO-OWNERAPPTID:339483996
+CREATED:20210424T024826Z
+DESCRIPTION:Event Name: Tutorial Session\n\nBootcamp tutorial session\n\nLo
+ cation: The day before the session\, I will email the link to you.\n\nWhat 
+ would you like to discuss during our meeting? Be as specific and detailed a
+ s possible.: CSS and Programmer point of view\n\nNeed to make changes to th
+ is event?\nCancel: https://calendly.com/cancellations/AF33KQCZLLYS3JVG\nRes
+ chedule: https://calendly.com/reschedulings/AF33KQCZLLYS3JVG\n\nPowered by 
+ Calendly.com\n\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the desc
+ ription.\n\nView your event at https://calendar.google.com/calendar/event?a
+ ction=VIEW&eid=OGppM3VrbnJyNDJ2c2c5dGtoMnV0Z20yY28gbmlja2pvaG5kZWx1bmEyMUBt
+ &tok=MjAjai5jYW1wb3M0Z0BnbWFpbC5jb21jNGRhZjg4YjdjZjNhODRkZDlhMjJkZjBjNmNiNm
+ ZhYzUzZTdmY2Y4&ctz=America%2FNew_York&hl=en&es=1.\n-::~:~::~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210424T024826Z
+LOCATION:The day before the session\, I will email the link to you.
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Nick john De luna and Joao Campos
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
