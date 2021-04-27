@@ -83,6 +83,8 @@ section {
   padding: 20px;
   color: #024e76;
   border: solid 3px #024e76;
+  width: 40%;
+  margin: 3.5%;
 }
 .hero-form h3 {
   margin: 0;
@@ -249,6 +251,15 @@ section {
 .contact {
   background-color: #024e76;
 }
+.contact-info > * {
+  flex: 1;
+  margin: 15px;
+}
+.contact-info {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
 .section-title {
   font-size: 55px;
   border-bottom: 3px solid #39a6b2;
@@ -262,7 +273,6 @@ section {
   color: #fce138;
 }
 .contact-info iframe {
-  width: 400px;
   height: 400px;
 }
 .contact-info div {
@@ -271,7 +281,6 @@ section {
   vertical-align: top;
   text-align: left;
   margin: 30px 0 0 60px;
-  color: white;
 }
 .contact-info h3 {
   color: #fce138;
@@ -281,10 +290,30 @@ section {
 .contact-info address {
   margin: 20px 0;
   line-height: 1.5;
-  font-size: 20px;
+  font-size: 16px;
   font-style: normal;
 }
 .contact-info a {
   color: #fce138;
+}
+.contact-form input,
+.contact-form textarea {
+  border: 1px solid #024e76;
+  display: block;
+  padding: 7px 15px;
+  font-size: 16px;
+  color: #024e76;
+  width: 100%;
+  margin-bottom: 15px;
+  margin-top: 5px;
+}
+.contact-form button {
+  width: 100%;
+  border: none;
+  background: #fce138;
+  color: #024e76;
+  text-align: center;
+  padding: 15px 0;
+  font-size: 16px;
 }
 /* Reach Out End */
